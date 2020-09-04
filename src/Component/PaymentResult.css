@@ -1,0 +1,23 @@
+.result-example .spe {
+    width: 60px;
+    height: 60px;
+  }
+  .sub-title {
+    color: #888;
+    font-size: 14px;
+    padding: 30px 0 18px 0;
+    margin-left: 15px;
+  }
+  
+  .am-list-body {
+    border-top: none;
+    border-bottom: none;
+  }
+    div.am-list-line::after{
+        background-color: white!important;
+    }
+
+    .am-list-line {
+      border-top: none;
+      border-bottom: none
+    }
